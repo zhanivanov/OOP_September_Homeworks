@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\obj\Debug\1.Persons.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\bin\Debug\1.Persons.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\bin\Debug\1.Persons.exe
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\bin\Debug\1.Persons.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\obj\Debug\1.Persons.exe
+c:\users\zhan\documents\visual studio 2013\Projects\1.DefiningClasses\1.Persons\obj\Debug\1.Persons.pdb

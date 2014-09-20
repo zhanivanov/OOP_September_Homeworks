@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\bin\Debug\3.PCCatolog.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\bin\Debug\3.PCCatolog.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\bin\Debug\3.PCCatolog.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\obj\Debug\3.PCCatolog.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\obj\Debug\3.PCCatolog.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\3.PCCatolog\obj\Debug\3.PCCatolog.pdb

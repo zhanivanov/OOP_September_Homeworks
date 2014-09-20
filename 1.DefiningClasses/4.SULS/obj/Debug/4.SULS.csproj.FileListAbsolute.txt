@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\bin\Debug\4.SULS.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\obj\Debug\4.SULS.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\bin\Debug\4.SULS.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\bin\Debug\4.SULS.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\obj\Debug\4.SULS.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\1.DefiningClasses\4.SULS\obj\Debug\4.SULS.pdb
