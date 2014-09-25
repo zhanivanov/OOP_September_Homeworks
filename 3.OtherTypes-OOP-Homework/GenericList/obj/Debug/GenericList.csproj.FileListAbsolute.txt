@@ -1,0 +1,7 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\bin\Debug\GenericList.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\obj\Debug\GenericList.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\obj\Debug\GenericList.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\3.OtherTypes-OOP-Homework\GenericList\bin\Debug\DocX.dll

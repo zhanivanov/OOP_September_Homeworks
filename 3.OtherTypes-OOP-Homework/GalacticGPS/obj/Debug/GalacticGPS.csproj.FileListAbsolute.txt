@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\bin\Debug\GalacticGPS.exe
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\bin\Debug\GalacticGPS.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\obj\Debug\GalacticGPS.exe
+c:\users\zhan\documents\visual studio 2013\Projects\3.OtherTypes-OOP-Homework\GalacticGPS\obj\Debug\GalacticGPS.pdb

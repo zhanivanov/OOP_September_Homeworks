@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\1.Point3D.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.exe
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\1.Point3D.exe
+c:\users\zhan\documents\visual studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\1.Point3D.pdb

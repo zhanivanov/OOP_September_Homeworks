@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\obj\Debug\HTMLDispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\bin\Debug\HTMLDispatcher.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb

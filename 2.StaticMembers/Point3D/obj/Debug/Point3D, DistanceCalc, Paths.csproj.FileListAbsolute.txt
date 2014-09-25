@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\Point3D, DistanceCalc, Paths.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\1.Point3D.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\obj\Debug\1.Point3D.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\2.StaticMembers\1.Point3D\bin\Debug\1.Point3D.pdb
