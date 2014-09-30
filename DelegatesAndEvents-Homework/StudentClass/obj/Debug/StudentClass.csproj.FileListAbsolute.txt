@@ -1,0 +1,1 @@
+c:\users\zhan\documents\visual studio 2013\Projects\StudentClass\StudentClass\bin\Debug\StudentClass.exe.config
