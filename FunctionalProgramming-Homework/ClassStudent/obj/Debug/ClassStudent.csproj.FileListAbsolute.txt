@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\bin\Debug\ClassStudent.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\bin\Debug\ClassStudent.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\bin\Debug\ClassStudent.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\obj\Debug\ClassStudent.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\obj\Debug\ClassStudent.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\FunctionalProgramming-Homework\ClassStudent\obj\Debug\ClassStudent.pdb

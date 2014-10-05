@@ -1,0 +1,6 @@
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\bin\Debug\StringBuilderExtentions.exe.config
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\bin\Debug\StringBuilderExtentions.exe
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\bin\Debug\StringBuilderExtentions.pdb
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\obj\Debug\StringBuilderExtentions.csprojResolveAssemblyReference.cache
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\obj\Debug\StringBuilderExtentions.exe
+c:\users\zhan\documents\visual studio 2013\Projects\FunctionalProgramming-Homework\StringBuilderExtentions\obj\Debug\StringBuilderExtentions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\obj\Debug\HumenStudentWorker.csprojResolveAssemblyReference.cache
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\bin\Debug\HumenStudentWorker.exe.config
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\bin\Debug\HumenStudentWorker.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\bin\Debug\HumenStudentWorker.pdb
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\obj\Debug\HumenStudentWorker.exe
+C:\Users\Zhan\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\HumenStudentWorker\obj\Debug\HumenStudentWorker.pdb
